@@ -1,10 +1,15 @@
-
-@import './global.css';
-@import './header.css';
-@import './introducao.css';
-@import './experiencia.css';
-@import './formacao.css';
-@import './footer.css';
+/* @import './global.css'; */
+@import '/css/global.css';
+/* @import './header.css'; */
+@import '/css/header.css';
+/* @import './introducao.css'; */
+@import '/css/introducao.css';
+/* @import './experiencia.css'; */
+@import '/css/experiencia.css';
+/* @import './formacao.css'; */
+@import '/css/formacao.css';
+/* @import './footer.css'; */
+@import '/css/footer.css';
 * {
     --cor-principal-preto: #141414;
     --cinza-claro: #525252;
